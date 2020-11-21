@@ -1,0 +1,60 @@
+.appoinment {
+    width: 100%;
+    padding-top: 20px;
+}
+
+.text-box {
+    padding-left: 300px;
+    padding-right: 20px;
+    background: #46e7d2 !important;
+    position: relative;
+
+}
+
+.text-box .sidetext {
+    position: absolute;
+    bottom: 108px;
+    left: 239px;
+    transform-origin: left;
+    transform: rotate(-90deg);
+    color: #9ce8de;
+}
+
+.text-box .button {
+    padding: 15px 0px;
+    text-decoration: none !important;
+}
+
+.text-box .button .btn {
+    color: #3cd8c2 !important;
+    background: white;
+    padding: 1rem;
+}
+
+.text h2 {
+    padding: 10px;
+    padding-bottom: 50px;
+}
+
+.text ul {
+    list-style-image: url('img/bulet.png');
+}
+
+.text ul li{
+    padding: 10px;
+}
+
+.text .button {
+    padding: 15px 0px;
+    text-decoration: none !important;
+}
+
+.text .button .btn {
+    color: #ffffff !important;
+    background: #32d6be;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-weight: bold;
+}
