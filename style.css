@@ -6,7 +6,7 @@
 .text-box {
     padding-left: 300px;
     padding-right: 20px;
-    background: #46e7d2 !important;
+    background-image: url('img/bg.png') !important;
     position: relative;
 
 }
@@ -40,7 +40,7 @@
     list-style-image: url('img/bulet.png');
 }
 
-.text ul li{
+.text ul li {
     padding: 10px;
 }
 
